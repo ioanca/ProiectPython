@@ -1,0 +1,41 @@
+movie_id,title,category,year
+0,The Shawshank Redemption,Drama,1994
+1,The Godfather,Crime,1972
+2,The Dark Knight,Action,2008
+3,Schindler's List,Biography,1993
+4,12 Angry Men,Drama,1957
+5,The Lord of the Rings: The Return of the King,Fantasy,2003
+6,The Godfather Part II,Crime,1974
+7,Spider-Man: Across the Spider-Verse,Animation,2023
+8,Pulp Fiction,Crime,1994
+9,Inception,Science Fiction,2010
+10,Fight Club,Drama,1999
+11,The Lord of the Rings: The Fellowship of the Ring,Fantasy,2001
+12,Forrest Gump,Comedy,1994
+13,"Il buono, il brutto, il cattivo",Western,1966
+14,The Lord of the Rings: The Two Towers,Fantasy,2002
+15,Jai Bhim,Drama,2021
+16,777 Charlie,Adventure,2022
+17,Oppenheimer,Biography,2023
+18,Interstellar,Adventure,2014
+19,GoodFellas,Crime,1990
+20,One Flew Over the Cuckoo's Nest,Drama,1975
+21,The Matrix,Action,1999
+22,Star Wars: Episode V - The Empire Strikes Back,Science Fiction,1980
+23,Rocketry: The Nambi Effect,Biography,2022
+24,Soorarai Pottru,Drama,2020
+25,Terminator 2: Judgment Day,Action,1991
+26,Seppuku,Action,1962
+27,Saving Private Ryan,War,1998
+28,Cidade de Deus,Crime,2002
+29,Spirited Away,Animation,2001
+30,Alien,Horror,1979
+31,The Green Mile,Drama,1999
+32,Gladiator,Action,2000
+33,Back to the Future,Science Fiction,1985
+34,Kantara,Action,2022
+35,Parasite,Drama,2019
+36,The Silence of the Lambs,Thriller,1991
+37,The Prestige,Drama,2006
+38,Léon,Crime,1994
+39,The Usual Suspects,Crime,1995
