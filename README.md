@@ -8,7 +8,9 @@ It features a local movie database with:
   Recommendations system: uses cosine similarity to compute a score and give personalized suggestions
 
 Libraries:
+
   Used for mathematical functions: pandas, numpy
+  
   Used for user interface: tkinter (+ ttk, messagebox, simpledialog)
 
 It has much to be improved upon, including:
