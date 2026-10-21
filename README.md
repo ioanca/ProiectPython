@@ -14,6 +14,9 @@ Libraries:
   Used for user interface: tkinter (+ ttk, messagebox, simpledialog)
 
 It has much to be improved upon, including:
-  Inclusion of online search engine that lets you search for any movie in the TMDB or IMDB
+
+  Online search engine that lets you search for any movie in the TMDB or IMDB
+  
   Online parsed movie posters (also TMDB or IMDB)
+  
   Including more genres/categories
