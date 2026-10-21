@@ -16,7 +16,5 @@ Libraries:
 It has much to be improved upon, including:
 
   Online search engine that lets you search for any movie in the TMDB or IMDB
-  
   Online parsed movie posters (also TMDB or IMDB)
-  
   Including more genres/categories
